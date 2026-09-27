@@ -53,3 +53,7 @@ A lightweight Vagrant environment is included to test the script consistently ac
 - `domains.txt`: Sample list of popular domains for testing purposes.
 - `Vagrantfile`: Configuration for the local testing Ubuntu VM.
 - `Screenshots/`: Contains visual documentation of the script executing on Windows PowerShell and inside the Vagrant VM.
+
+## License
+
+Released under the [MIT License](LICENSE).
